@@ -8,5 +8,6 @@
 </head>
 <body>
 <input type="text" id="demo">
+<button>get</button>
 </body>
 </html>
